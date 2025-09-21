@@ -1,0 +1,14 @@
+C:\Skola\Övningar\Bibliotek-inlämning\bin\Debug\net8.0\Bibliotek-inlämning.exe
+C:\Skola\Övningar\Bibliotek-inlämning\bin\Debug\net8.0\Bibliotek-inlämning.deps.json
+C:\Skola\Övningar\Bibliotek-inlämning\bin\Debug\net8.0\Bibliotek-inlämning.runtimeconfig.json
+C:\Skola\Övningar\Bibliotek-inlämning\bin\Debug\net8.0\Bibliotek-inlämning.dll
+C:\Skola\Övningar\Bibliotek-inlämning\bin\Debug\net8.0\Bibliotek-inlämning.pdb
+C:\Skola\Övningar\Bibliotek-inlämning\obj\Debug\net8.0\Bibliotek-inlämning.GeneratedMSBuildEditorConfig.editorconfig
+C:\Skola\Övningar\Bibliotek-inlämning\obj\Debug\net8.0\Bibliotek-inlämning.AssemblyInfoInputs.cache
+C:\Skola\Övningar\Bibliotek-inlämning\obj\Debug\net8.0\Bibliotek-inlämning.AssemblyInfo.cs
+C:\Skola\Övningar\Bibliotek-inlämning\obj\Debug\net8.0\Bibliotek-inlämning.csproj.CoreCompileInputs.cache
+C:\Skola\Övningar\Bibliotek-inlämning\obj\Debug\net8.0\Bibliotek-inlämning.dll
+C:\Skola\Övningar\Bibliotek-inlämning\obj\Debug\net8.0\refint\Bibliotek-inlämning.dll
+C:\Skola\Övningar\Bibliotek-inlämning\obj\Debug\net8.0\Bibliotek-inlämning.pdb
+C:\Skola\Övningar\Bibliotek-inlämning\obj\Debug\net8.0\Bibliotek-inlämning.genruntimeconfig.cache
+C:\Skola\Övningar\Bibliotek-inlämning\obj\Debug\net8.0\ref\Bibliotek-inlämning.dll
